@@ -1,0 +1,19 @@
+{
+    "name": "yeko/introduccion-frameworks",
+    "description": "proyecto basico",
+    "authors": [
+        {
+            "name": "yekogarcia",
+            "email": "yekogarcia@yahoo.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files":[
+           "app/helpers.php" 
+        ]
+    }
+}

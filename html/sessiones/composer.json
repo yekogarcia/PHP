@@ -1,0 +1,18 @@
+{
+    "name": "yeko/sessiones",
+    "description": "prueba de sessiones con POO",
+    "autoload": {
+        "psr-4": {
+            "Yeko\\Sessiones\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yekogarcia",
+            "email": "yekogarcia@yahoo.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.5"
+    }
+}
